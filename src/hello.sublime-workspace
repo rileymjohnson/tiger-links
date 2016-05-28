@@ -1,0 +1,1119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b3oc",
+				"bs3-container	bs3-container"
+			],
+			[
+				"todo",
+				"TodoActions"
+			],
+			[
+				"gender",
+				"genderUpdate"
+			],
+			[
+				"dis",
+				"dispatch"
+			],
+			[
+				"di",
+				"dispatch"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"se",
+				"state	React: this.state."
+			],
+			[
+				"In",
+				"IndexRoute"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"change",
+				"changeTitle"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"handl",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Time",
+				"TimeMap"
+			],
+			[
+				"al",
+				"allie_battle"
+			],
+			[
+				"response",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"backgrc",
+				"background-color"
+			],
+			[
+				"sessi",
+				"session	*sessions.Session ν"
+			],
+			[
+				"ses",
+				"session	*sessions.Session ν"
+			],
+			[
+				"reposn",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"exe",
+				"ExecuteWriter	error ƒ"
+			],
+			[
+				"Inde",
+				"indexTemplate	*pongo2.Template ν"
+			],
+			[
+				"n",
+				"number	int ν"
+			],
+			[
+				"fpin",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"hand",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"fpirn",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"quer",
+				"query2"
+			],
+			[
+				"writ",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"respon",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"tick",
+				"Ticker	struct ʈ"
+			],
+			[
+				"tim",
+				"timer	*time.Timer ν"
+			],
+			[
+				"new",
+				"NewTimer	*time.Timer ƒ"
+			],
+			[
+				"second",
+				"secondOut	chan string ν"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"s",
+				"Second	 Ɩ"
+			],
+			[
+				"secon",
+				"secondChan	chan string ν"
+			],
+			[
+				"sec",
+				"secondChan	chan string ν"
+			],
+			[
+				"first",
+				"firstChan	chan string ν"
+			],
+			[
+				"te",
+				"theChannel	chan string ν"
+			],
+			[
+				"fprin",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"re",
+				"Request	struct ʈ"
+			],
+			[
+				"rea",
+				"ReadFile	[]byte, error ƒ"
+			],
+			[
+				"wri",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"OPen",
+				"OpenFile	*os.File, error ƒ"
+			],
+			[
+				"g",
+				"getName	string ƒ"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"pi",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"prn",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Cha",
+				"ChatRouter"
+			],
+			[
+				"get",
+				"get_argument"
+			],
+			[
+				"ws",
+				"wsgi_app"
+			],
+			[
+				"send",
+				"sendToMembers"
+			],
+			[
+				"appet",
+				"appetizers"
+			],
+			[
+				"Flas",
+				"FlaskApp"
+			],
+			[
+				"dle",
+				"delete"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"getspe",
+				"getSpecficEvent"
+			],
+			[
+				"getpas",
+				"getPasswordForCheck"
+			],
+			[
+				"chos",
+				"chosenUpdate"
+			],
+			[
+				"metho",
+				"methods"
+			],
+			[
+				"update",
+				"updateHour"
+			],
+			[
+				"app",
+				"app"
+			],
+			[
+				"or",
+				"orders"
+			],
+			[
+				"getse",
+				"getSpecificOrder"
+			],
+			[
+				"reser",
+				"reservations"
+			],
+			[
+				"appetz",
+				"appetizersnames"
+			],
+			[
+				"getite",
+				"getItemInfo"
+			],
+			[
+				"admin",
+				"adminIsIn"
+			],
+			[
+				"iter",
+				"iter"
+			],
+			[
+				"getit",
+				"getItemName"
+			],
+			[
+				"ape",
+				"append"
+			],
+			[
+				"getin",
+				"getItemInfo"
+			],
+			[
+				"admi",
+				"adminIsIn"
+			],
+			[
+				"tue",
+				"tue"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"getitem",
+				"getItemInfo"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"k",
+				"kToF"
+			],
+			[
+				"numT",
+				"numToDay"
+			],
+			[
+				"adminlo",
+				"adminLogOut"
+			],
+			[
+				"adminlog",
+				"adminLogIn"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"reserva",
+				"reservation"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"insert",
+				"insertOrder"
+			],
+			[
+				"commen",
+				"comment"
+			],
+			[
+				"orderde",
+				"orderdetails"
+			],
+			[
+				"orderre",
+				"orderreview"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"getSch",
+				"getSchools"
+			],
+			[
+				"meto",
+				"methods"
+			],
+			[
+				"deletesc",
+				"deleteSchoolfromSchool"
+			],
+			[
+				"getzon",
+				"getZones"
+			],
+			[
+				"getnew",
+				"getNewestId"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"ide",
+				"ident"
+			],
+			[
+				"create",
+				"createNewSchool"
+			],
+			[
+				"gets",
+				"getSpecificTeacher"
+			],
+			[
+				"ren",
+				"renameTableEntry"
+			],
+			[
+				"renam",
+				"renameTable"
+			],
+			[
+				"deleteta",
+				"deleteTableEntry"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"addz",
+				"addZone"
+			],
+			[
+				"method",
+				"method"
+			],
+			[
+				"addzon",
+				"addzone"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"scho",
+				"school"
+			],
+			[
+				"schoolf",
+				"schoolNameFromId"
+			],
+			[
+				"getschooln",
+				"getSchoolName"
+			],
+			[
+				"getsco",
+				"getSchoolInfo"
+			],
+			[
+				"getsc",
+				"getSchools"
+			],
+			[
+				"adminl",
+				"adminLogout"
+			],
+			[
+				"school",
+				"schoolIsIn"
+			],
+			[
+				"schoo",
+				"school"
+			],
+			[
+				"getscho",
+				"getSchoolId"
+			],
+			[
+				"getId",
+				"getIdent"
+			],
+			[
+				"inc",
+				"incorrect"
+			],
+			[
+				"getid",
+				"getIdList"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"sc",
+				"school"
+			],
+			[
+				"getS",
+				"getSchools"
+			],
+			[
+				"ge",
+				"getPercent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 535.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sbc sett",
+				"SBC: Settings – User"
+			],
+			[
+				"packagecontrol ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Build: New Build System"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 792.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/riley/Desktop/react test",
+		"/C/Users/riley/Desktop/react test/src",
+		"/C/Users/riley/Desktop/react test/src/js",
+		"/C/Users/riley/Desktop/react test/src/js/actions",
+		"/C/Users/riley/Desktop/react test/src/js/pages",
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages/todos.js",
+		"/C/Users/riley/Desktop/react test/src/js/actions/todoaction.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages/favorites.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages/settings.js",
+		"/C/Users/riley/Desktop/react test/src/hello.sublime-project",
+		"/C/Users/riley/Desktop/react test/src/index.html",
+		"/C/Users/riley/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+		"/C/Users/riley/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/riley/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/riley/Desktop/react test/src/js/store.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/navbar.js",
+		"/C/Users/riley/Desktop/react test/src/js/scripts.js",
+		"/C/Users/riley/Desktop/example.html",
+		"/C/Users/riley/Desktop/react test/src/js/dispatcher.js",
+		"/C/Users/riley/Desktop/python work/weatherflask.py",
+		"/C/Users/riley/Desktop/python work/sms.py",
+		"/C/Users/riley/Desktop/react test/src/js/pages/Layout.js",
+		"/C/Users/riley/Desktop/react test/package.json",
+		"/C/Users/riley/Desktop/re/serve.py",
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages/fav.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/pages/favorites.s",
+		"/C/Users/riley/Desktop/react test/src/js/pages/About.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/Menu.js",
+		"/C/Users/riley/Desktop/react test/src/js/pages/Contact.js",
+		"/C/Users/riley/Desktop/test/date.sql",
+		"/C/Users/riley/Desktop/test/foo.sql",
+		"/C/Users/riley/Desktop/test/standing_rides.sql",
+		"/C/Users/riley/.bashrc",
+		"/C/Program Files/Git/cd.sh",
+		"/C/Users/riley/Desktop/test/proc.sql",
+		"/C/Users/riley/Desktop/test/test.sql",
+		"/C/Users/riley/Desktop/react test/src/js/pages/menu.js",
+		"/C/Users/riley/Desktop/react test/src/js/components/Layout.js",
+		"/C/Users/riley/Desktop/react test/src/js/tablesort.js",
+		"/C/Users/riley/Desktop/react test/src/scripts.min.js",
+		"/C/Users/riley/Desktop/sockjs/sockjs/static/controller.js",
+		"/C/Users/riley/Desktop/sockjs/sockjs/templates/index.html",
+		"/C/Users/riley/Desktop/sockjs/sockjs/sockjs.py",
+		"/C/Users/riley/Downloads/MOCK_DATA.json",
+		"/C/Users/riley/Desktop/react test/src/js/components/Footer.js",
+		"/C/Users/riley/Desktop/react test/src/js/components/Header.js",
+		"/C/Users/riley/AppData/Local/Temp/Temp1_startbootstrap-full-width-pics-1.0.4.zip/startbootstrap-full-width-pics-1.0.4/index.html",
+		"/C/Users/riley/Desktop/react test/src/js/components/Header/Title.js",
+		"/C/Users/riley/Desktop/react test/src/js/components/layout.js",
+		"/C/Users/riley/Desktop/react test/webpack.config.js",
+		"/C/Users/riley/Desktop/react test/index.html",
+		"/C/Users/riley/Desktop/react test/js/mod2.js",
+		"/C/Users/riley/Desktop/react test/js/mod1.js",
+		"/C/Users/riley/Desktop/react test/node_modules/jquery/package.json",
+		"/C/Users/riley/Desktop/react test/js/scripts.js",
+		"/C/Users/riley/Desktop/react test/js/scripts.min.js",
+		"/C/Users/riley/Desktop/react/index.html",
+		"/C/Users/riley/Desktop/react/package.json",
+		"/C/Users/riley/Desktop/react/node_modules/underscore/package.json",
+		"/C/Users/riley/Desktop/react/main.jsx",
+		"/C/Users/riley/AppData/Local/Temp/Temp1_react-tutorial-master.zip/react-tutorial-master/requirements.txt",
+		"/C/Users/riley/AppData/Local/Temp/Temp1_react-tutorial-master.zip/react-tutorial-master/server.go",
+		"/C/Users/riley/AppData/Local/Temp/Temp1_react-tutorial-master.zip/react-tutorial-master/server.py",
+		"/C/Users/riley/Desktop/go/src/github.com/question/main.go",
+		"/C/Users/riley/Desktop/go/src/github.com/question/next.go",
+		"/C/Users/riley/Desktop/go/src/github.com/question/test.go",
+		"/C/Users/riley/Desktop/cycling/build 1/p888/urls.txt",
+		"/C/Users/riley/Desktop/t.go",
+		"/C/oraclexe/app/oracle/product/11.2.0/server/network/ADMIN/tnsnames.ora",
+		"/C/oraclexe/app/oracle/sqlpath/login.sql",
+		"/C/Users/riley/Desktop/test/login.sql",
+		"/C/Users/riley/Desktop/test/connect.sql",
+		"/C/Users/riley/Desktop/timemap-master/www/js/multiselect.min.js",
+		"/C/Users/riley/Desktop/timemap-master/www/css/multiselect.min.css",
+		"/E/install/SetUpLocalDatabase/create_sandbox_schema.sql",
+		"/C/Users/riley/Desktop/cycling/build 1/p888/untitled.sql",
+		"/C/Users/riley/Desktop/cycling/build 1/p888/p888.js",
+		"/C/Users/riley/Desktop/timemap-master/www/js/options.js",
+		"/C/Users/riley/Desktop/timemap-master/src/param.js",
+		"/C/Users/riley/Desktop/timemap-master/src/timemap.js",
+		"/C/Users/riley/Downloads/timemap.2.0.1/examples/data_themes.html",
+		"/C/Users/riley/Desktop/timemap-master/www/index.html",
+		"/C/Users/riley/Desktop/python work/speech/main.py",
+		"/C/Users/riley/Desktop/go/src/github.com/question/static/css/index.css",
+		"/C/Users/riley/Desktop/go/src/github.com/question/templates/test.css",
+		"/C/Users/riley/Desktop/test.html",
+		"/C/Users/riley/AppData/Local/Temp/scp20376/var/www/fire/serve.py",
+		"/C/Users/riley/Desktop/go/gowiki/view.html",
+		"/C/Users/riley/Desktop/go/gowiki/edit.html",
+		"/C/Users/riley/Desktop/go/gowiki/proof.go",
+		"/C/Users/riley/Desktop/go/gowiki/wiki.go",
+		"/C/Users/riley/Desktop/go/gowiki/test.go",
+		"/C/Users/riley/Desktop/go/gowiki/test.txt",
+		"/C/Users/riley/Desktop/go/gowiki/wiki",
+		"/C/Users/riley/Desktop/go/src/github.com/riley/test/app/init.go",
+		"/C/Users/riley/Desktop/go/src/github.com/riley/question/question.go",
+		"/C/Users/riley/Desktop/go/hello.go",
+		"/C/Creative Cloud/JetBrains IntelliJ IDEA Ultimate v14 0 139 224 Incl KeyMaker-DVT/Torrent Downloaded from RARBG.com.txt",
+		"/C/Users/riley/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/Users/riley/Desktop/go/interpret.go",
+		"/C/Users/riley/Desktop/serve.py",
+		"/C/Users/riley/Desktop/python work/braininterpreter/interpreter.py",
+		"/C/Users/riley/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/riley/Desktop/go/hello",
+		"/C/Users/riley/AppData/Local/Temp/scp24988/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp17790/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp13024/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp24076/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp59122/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp38678/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp38024/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp32272/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp30018/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp30791/var/www/myproject/wsgi.py",
+		"/C/Users/riley/AppData/Local/Temp/scp30169/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp30646/var/www/myproject/myproject.ini",
+		"/C/Users/riley/AppData/Local/Temp/scp26151/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp26490/var/www/myproject/myproject.ini",
+		"/C/Users/riley/AppData/Local/Temp/scp26829/var/www/myproject/myproject.ini",
+		"/C/Users/riley/AppData/Local/Temp/scp25428/var/www/myproject/wsgi.py",
+		"/C/Users/riley/AppData/Local/Temp/scp25225/var/www/myproject/myproject.py",
+		"/C/Users/riley/AppData/Local/Temp/scp24841/var/www/myproject/myproject.py",
+		"/C/Users/riley/Desktop/test.sql",
+		"/C/Users/riley/AppData/Local/Temp/scp05045/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp37820/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp21338/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp30953/var/www/mapsocket/map.py",
+		"/C/Users/riley/AppData/Local/Temp/scp21355/var/www/mapsocket/map.py",
+		"/C/Users/riley/AppData/Local/Temp/scp14718/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp25340/var/www/mapsocket/map.py",
+		"/C/Users/riley/AppData/Local/Temp/scp13633/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp47399/var/www/fire/serve.py",
+		"/C/Users/riley/AppData/Local/Temp/scp40035/var/www/fire/serve.py"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\")",
+			"/>\n",
+			"19",
+			"')\n",
+			"),",
+			"blurp",
+			"sidetag",
+			"hassidetag",
+			"battletag",
+			"hasbattletag",
+			"massacretag",
+			"hasmassacretag",
+			"surrendertag",
+			"hassurrendertag",
+			"miscTag",
+			"hasMiscTag",
+			"weathertag",
+			"hasweathertag",
+			"allietag",
+			"hasallietag",
+			"axistag",
+			"hasaxistag",
+			"selectedtag",
+			"axistag",
+			"hasSelectedTag",
+			"jeffro",
+			"timemap(",
+			"session-name",
+			"slider1",
+			"slider",
+			"\"",
+			"updateteacherst",
+			"updateteachers",
+			"getpercent",
+			"getpercen",
+			"getpercent",
+			")\n",
+			"groups",
+			"app",
+			"19",
+			"con = mdb.connect('localhost', 'admin', 'visibilitymatters', 'multifire')",
+			"into 2a",
+			"into 1b",
+			"into 1a",
+			"into 2b",
+			"into 3a",
+			"con = mdb.connect('localhost', 'admin', 'visibilitymatters', 'multifire')",
+			")\n",
+			"[1:",
+			"sendto",
+			"members",
+			"email",
+			"members",
+			"addmenuite",
+			"getevents",
+			"geteve",
+			"addeven",
+			"check",
+			"chosen",
+			"adduser",
+			"ifUser",
+			"adduser",
+			"getUsers",
+			"getUser",
+			"getUsers",
+			".val()",
+			"end",
+			"start",
+			"val(",
+			"end",
+			"start",
+			"/reser",
+			"hours[",
+			"drinks",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"appetizers",
+			"csv",
+			"appetizer",
+			"drinks",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"appetizers",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"appetizers",
+			"desserts",
+			"user",
+			"log",
+			"admin",
+			"\"",
+			"])",
+			"json",
+			"\"",
+			"path",
+			"getzone",
+			"print",
+			"groups",
+			"getnewestzone",
+			"getteacher",
+			"deletez",
+			"\"",
+			"    ",
+			"2b",
+			"addzone",
+			"\"",
+			"bil",
+			"download",
+			"getschoolinfo",
+			"getteachers",
+			"getpassw",
+			"print",
+			"getident",
+			"getschoolid",
+			"print",
+			"id",
+			"2a",
+			"1b",
+			"1a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"88",
+			"typeTag",
+			"hasTypeTag",
+			"sortieTag",
+			"hasSortieTag",
+			"battleTag",
+			"hasBattleTag",
+			"massacreTag",
+			"hasMassacreTag",
+			"surrenderTag",
+			"hasSurrenderTag",
+			"miscTag",
+			"hasMiscTag",
+			"weatherTag",
+			"hasWeatherTag",
+			"allieTag",
+			"hasAllieTag",
+			"axisTag",
+			"hasAxisTag",
+			"axisTag",
+			"riley",
+			"login",
+			"slider2",
+			"slider1",
+			"'",
+			"88",
+			"con = mdb.connect('localhost', 'root', 'password1', 'multifire')",
+			"into 3a",
+			"into 2b",
+			"into 2a",
+			"into 1b",
+			"into 1a",
+			"con = mdb.connect('localhost', 'root', 'password1', 'multifire')",
+			".prop('checked')",
+			"open",
+			"end",
+			"prop('checked'",
+			"open",
+			"end",
+			"getHours(hours[",
+			"desserts",
+			"drinks",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"soup",
+			"desserts",
+			"drinks",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"drinks",
+			"breads",
+			"entrees",
+			"kids",
+			"salads",
+			"soups",
+			"appetizers",
+			"'",
+			"",
+			"1b",
+			"'",
+			"3a",
+			"2b",
+			"2a",
+			"(",
+			"1a (",
+			"(",
+			"1b (",
+			"(",
+			"1c (",
+			"1c",
+			"fireuser",
+			"'firedrill'",
+			"'localhost', 'restuser', 'restuser1', 'rest'",
+			"zoneb",
+			"zonea",
+			" desserts(name, shortDes, longDes, location, price)",
+			" drinks(name, shortDes, longDes, location, price)",
+			" breads(name, shortDes, longDes, location, price)",
+			" entrees(name, shortDes, longDes, location, price)",
+			" kids(name, shortDes, longDes, location, price)",
+			" appetizers(name, shortDes, longDes, location, price)",
+			" salads(name, shortDes, longDes, location, price)",
+			" soups(name, shortDes, longDes, location, price)",
+			" appetizers(name, shortDes, longDes, location, price)",
+			"appetizers(name, shortDes, longDes, location, price)",
+			" appetizers(name, shortDes, longDes, location, price)",
+			"appetizers(name, shortDes, longDes, location, price)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\riley\\Desktop\\go\\gowiki":
+	{
+		"height": 148.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"C:\\Users\\riley\\Desktop\\react test\\src\\index.html"
+			],
+			[
+				"",
+				"C:\\Users\\riley\\Desktop\\react test\\src\\index.html"
+			],
+			[
+				"sc",
+				"C:\\Users\\riley\\Desktop\\react test\\src\\js\\scripts.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

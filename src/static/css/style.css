@@ -1,0 +1,54 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+}
+* {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+    .container {
+    	width: 100%;
+    }
+}
+.container1 {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 20px;
+}
+.container1 .pagination {
+  font-size: 20px;
+  text-align: center;
+}
+.container1 .pagination span {
+  height: 30px;
+  width: 30px;
+  color: rgba(0, 0, 0, 0.5);
+  transition: color 2s;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+.container1 .pagination .active {
+  background: #2196F3;
+  border-radius: 50%;
+  color: white;
+}
+.container1 .pagination .active:hover {
+  color: white;
+}
+.container1 .pagination span:hover {
+  color: black;
+  transition: color 2s;
+}
+.container1 .pagination span:first-child {
+  margin-left: 10px;
+}
+.container1 .pagination span:last-child {
+  margin-right: 10px;
+}
